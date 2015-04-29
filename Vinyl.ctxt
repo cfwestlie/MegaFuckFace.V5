@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=title\ artist\ recordLabel\ yearReleased\ archiveNumber
+comment0.target=Vinyl(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ long)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Vinyl\r\n
+comment1.params=audioTracks
+comment1.target=void\ addToVinyl(AudioTracks)
+numComments=2

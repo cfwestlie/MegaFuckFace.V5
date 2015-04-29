@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=title\ minutes\ seconds\ product\ company
+comment0.target=Jingle(java.lang.String,\ long,\ long,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Jingle\r\n
+comment1.params=
+comment1.target=java.lang.String\ getCompany()
+comment2.params=
+comment2.target=java.lang.String\ getProduct()
+numComments=3

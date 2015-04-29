@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=title\ artist\ recordLabel\ yearReleased\ archiveNumber
+comment0.target=CD(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ long)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CD\r\n
+comment1.params=audioTracks
+comment1.target=void\ addToCD(AudioTracks)
+comment2.params=
+comment2.target=java.lang.String\ getYearReleased()
+comment3.params=
+comment3.target=java.lang.String\ getRecordLabel()
+comment4.params=
+comment4.target=java.lang.String\ getArtist()
+numComments=5

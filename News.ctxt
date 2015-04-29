@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=title\ minutes\ seconds\ journalist\ story
+comment0.target=News(java.lang.String,\ long,\ long,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ News\r\n
+comment1.params=
+comment1.target=java.lang.String\ getJournalist()
+comment2.params=
+comment2.target=java.lang.String\ getStory()
+numComments=3

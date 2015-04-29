@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=artist\ title\ minutes\ seconds\ timesPlayed\ lastPlayed
+comment0.target=Music(java.lang.String,\ java.lang.String,\ long,\ long,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Music\r\n
+comment1.params=
+comment1.target=java.lang.String\ getArtist()
+comment2.params=
+comment2.target=java.lang.String\ getLastPlayed()
+comment3.params=
+comment3.target=int\ getTimesPlayed()
+numComments=4

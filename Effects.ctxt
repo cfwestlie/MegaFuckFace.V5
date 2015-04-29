@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=title\ description\ minutes\ seconds
+comment0.target=Effects(java.lang.String,\ java.lang.String,\ long,\ long)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Effects\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+numComments=2
